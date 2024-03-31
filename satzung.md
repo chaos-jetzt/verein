@@ -32,9 +32,12 @@ TODO: replace all `?` chars
 
 ### § 3b Beitritt
 
-1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand. Die Mitgliedschaft steht grundsätzlich jeder Person offen. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand. 
-2. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
-3. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
+1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand.
+2. Die ordentliche Mitgliedschaft steht grundsätzlich jeder natürlichen Person offen, die das fünfundzwanzigste Lebensjahr nicht vollendet hat.
+3. Die Fördermitgliedschaft steht grundätzlich jeder natürlichen oder juristischen oder natürlichen Person sowie Anstalt oder Körperschaft des öffentlichen Rechts offen.
+4. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand.
+5. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
+6. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
 
 ### § 3c Mitgliedschaftsende
 
@@ -43,9 +46,9 @@ TODO: replace all `?` chars
     2. Tod von natürlichen Personen oder 
     3. Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder
     4. Ausschluss.
-    5. ??? dem 27. Geburtstag
 2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist jederzeit mit einer Frist von vier Wochen möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
+4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, so wird seine Mitgliedschaft automatisch zu einer Alumni-Mitgliedschaft, die in allen Rechten und Pflichten einer Fördermitgliedschaft gleichgestellt ist.
 
 ### § 3d Ausschluss
 
@@ -83,7 +86,7 @@ TODO: replace all `?` chars
     6. der Erlass, Änderung und Aufhebung von Ordnungen,
     7. die Anträge des Vorstandes und der Mitglieder, sowie
     8. die Auflösung des Vereins.
-2. Die Mitgliederversammlung kann an einem durch den Vorstand festgelegten Ort, im Rahmen von Netzkonferenzen zur fernmündlichen Teilnahme sowie in einer Kombination hiervon erfolgen. 
+2. Die Mitgliederversammlung kann an einem durch den Vorstand festgelegten Ort, im Rahmen von Netzkonferenzen zur fernmündlichen Teilnahme sowie in einer Kombination hiervon erfolgen.
 
 ### § 6a Einberufung
 
@@ -117,6 +120,7 @@ TODO: replace all `?` chars
 
 1. Jedes stimmberechtigte Mitglied hat eine Stimme. Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.
 2. Das Stimmrecht kann auf andere stimmberechtigte Mitglieder übertragen werden. Das bevollmächtigte Mitglied muss eine schriftliche Stimmrechtsvollmacht vorlegen. Kein stimmberechtigtes Mitglied darf mehr als zwei Stimmrechtsvollmachten auf sich vereinigen.
+3. Fördermitglieder sind nicht stimmberechtigt.
 
 ### § 6f Beschlussquoten
 
@@ -148,14 +152,14 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 
 ### § 7a Besetzung des Vorstandes
 
-??? Altersgrenze einbauen
-
 1. Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre. Wiederwahl ist zulässig. 
 2. Der Vorstand bleibt bis zur Neuwahl im Amt, damit auch nach Ablauf der Amtsdauer eine ordnungsgemäße gesetzliche Vertretung gesichert ist.
 3. Der Vorstand besteht aus natürlichen Personen, den Vorstandsmitgliedern. Die Bekleidung mehrer Ämter durch eine Person ist zulässig, sofern dies auf Beschluss der Mitgliederversammlung erfolgt.
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
 5. Scheidet ein Vorstandsmitglied während seiner Amtszeit aus, wählt der verbleibende Vorstand übergangsweise bis zur nächsten Mitgliederversammlung einen Ersatz. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
+7. Alle Vorstandsmitglieder dürfen zum Zeitpunkt des Amtsantritts das fünfundzwanzigste Lebensjahr nicht vollendet haben.
+8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
 
