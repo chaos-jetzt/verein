@@ -87,9 +87,7 @@ TODO: replace all `?` chars
 
 ### § 6a Einberufung
 
-??? Alle zwei Jahre?
-
-1. Die ordentliche Mitgliederversammlung findet jedes Jahr statt. 
+1. Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt. 
 2. Außerordentliche Mitgliederversammlungen werden 
     1. auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder 
     2. wenn ein Viertel der stimmberechtigten Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. 
