@@ -12,13 +12,13 @@ TODO: replace all `?` chars
 
 ## § 2 Zweck
 
-1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft und Bildung und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
-    1. ??? ??? Das Teilnehmen an IT-Sicherheitswettbewerben (sog. Capture-The-Flag-Wettbewerbe),
-    2. ??? ??? Das Veranstalten von IT-Sicherheitswettbewerben (sog. Capture-The-Flag-Wettbewerbe),
-    3. ??? ??? Auffinden und ggf. Melden von Sicherheitslücken,
-    4. ??? ??? Förderung der nationalen und internationalen Kommunikation zwischen Technologie-Experten,
-    5. ??? ??? Vereinsinterne Treffen — ggf. mit externen Gästen — zum Austausch über IT-Themen.
-2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
+1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
+    1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche,
+    2. Vereinsinterne Treffen — ggf. mit externen Gästen — zum Austausch über IT-Themen,
+    3. Die Teilnahme an Veranstaltungen im IT-Bereich,
+    4. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
+    5. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
+3. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
 
 
 ## § 3 Mitgliedschaft
