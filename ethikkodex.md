@@ -2,8 +2,6 @@
 
 TODO: replace `???`
 
-## ??? Hackerethik
-
 ## Würdevoller und gerechter Umgang miteinander
 
 Im Rahmen jeglicher Aktivitäten des Vereins ist stets würdevoll und diskriminierungsfrei miteinander umzugehen. Dies versteht sich in Bezug auf ethnische Herkünfte, die körperliche Unversehrtheit, das Geschlecht, die Sexualität, das Aussehen und körperlichen Einschränkungen. Wir behandeln uns gegenseitig stets fair und respektvoll.
@@ -21,3 +19,6 @@ Informationen und private Daten sind zu schützen. Identifizierte Schwachstellen
 Verstöße gegen den Ethikkodex können zum Ausschluss von den Vereinsaktivitäten führen.
 
 Über den Ausschluss einzelner Mitglieder bestimmt der Vorstand.
+
+## Politische Unvereinbarkeitserklärung `???`
+* brauchen wir eine politische Unvereinbarkeitserklärung??
