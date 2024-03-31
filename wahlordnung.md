@@ -2,7 +2,7 @@
 
 ## § 1 Wahlvorstand
 
-1. Zur Durchführung der während einer Mitgliederversammlung vorgesehenen Wahlen, wie insbesondere der Wahl des Vorstands und der Kassenprüfenden wählt die Mitgliederversammlung aus ihren Reihen den Wahlvorstand.
+1. Zur Durchführung der während einer Mitgliederversammlung vorgesehenen Wahlen, wie insbesondere der Wahl des Vorstands und der Kassenprüfenden wählt die Mitgliederversammlung aus den ordentlichen Mitgliedern den Wahlvorstand.
 2. Der Wahlvorstand wird zu Beginn der Versammlung, spätestens aber vor der ersten Wahl bestimmt und bleibt bis zum Ende der Versammlung im Amt.
 3. Der Wahlvorstand hat ein bis drei Mitglieder. Diese dürfen keinem Vereinsorgan mit Ausnahme der Mitgliederversammlung angehören und selbst nicht für ein Vereinsamt kandidieren.
 4. Die Mitglieder des Wahlvorstands bestimmen einen Vorsitz.
