@@ -22,40 +22,11 @@ TODO: replace all `?` chars
 
 
 ## § 3 Mitgliedschaft
-
 1. Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
-2. Mitglieder, deren Vereinsmitgliedschaft aufgrund satzungsgemäßer Bestimmungen ruht, sind in der Mitgliederversammlung nicht abstimmungs- oder wahlberechtigt, es sei denn es handelt sich um Beschlüsse über den Ausschluss einzelner Mitglieder. Über die Enthebung aus Ämtern entscheidet der Vorstand.
+2. Mitglieder, deren Vereinsmitgliedschaft aufgrund satzungsgemäßer Bestimmungen ruht, sind in der Mitgliederversammlung nicht abstimmungs- oder wahlberechtigt, es sei denn, es handelt sich um Beschlüsse über den Ausschluss einzelner Mitglieder. Über die Enthebung aus Ämtern entscheidet der Vorstand.
 
-### § 3a Rechte und Pflichten
+Alle weiteren Details zur Mitgliedschaft, einschließlich Rechte und Pflichten, Beitritt, Mitgliedschaftsende und Ausschluss, sind in der Mitgliedsvereinbarung (Anlage 4) geregelt. Mitglieder und Interessenten werden auf diese Vereinbarung hingewiesen und müssen ihre Bestimmungen akzeptieren, um die Mitgliedschaft im Verein aufrechtzuerhalten oder zu erlangen.
 
-1. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
-
-### § 3b Beitritt
-
-1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand. Die Mitgliedschaft steht grundsätzlich jeder Person offen. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand. 
-2. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
-3. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
-
-### § 3c Mitgliedschaftsende
-
-1. Die Mitgliedschaft endet durch 
-    1. Austrittserklärung oder
-    2. Tod von natürlichen Personen oder 
-    3. Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder
-    4. Ausschluss.
-    5. ??? dem 27. Geburtstag
-2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist jederzeit mit einer Frist von vier Wochen möglich.
-3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
-
-### § 3d Ausschluss
-
-1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es
-    1. das Ansehen des Vereins schädigt, oder
-    2. ??? Definieren ??? gegen Verhaltensregeln oder den Ethikkodex verstößt, oder
-    3. seinen Beitragsverpflichtungen nicht nachkommt oder
-    4. ein sonstiger wichtiger Grund vorliegt.
-2. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen an die letzte bekannte Anschrift oder an die zuletzt bekannte E-Mail-Adresse mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-3. Der Beschluss des Vorstandes kann vom auszuschließenden Mitglied angefochten werden. In diesem Fall wird die Mitgliederversammlung angerufen, welche über den Ausschluss abstimmt. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Die Anrufung muss innerhalb einer Frist von vier Wochen ab Zugang des Ausschließungsbeschlusses schriftlich beim Vorstand eingelegt werden. Erfolgt keine Anrufung oder verstreicht die Anrufungsfrist, gilt die Mitgliedschaft ab dem Zeitpunkt des Ausschlusses als beendet.
 
 ## § 4 Mittel des Vereins
 
