@@ -33,7 +33,7 @@ TODO: replace all `?` chars
 ### § 3b Beitritt
 
 1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand.
-3. Die Fördermitgliedschaft steht grundätzlich jeder natürlichen oder juristischen Person sowie Anstalt oder Körperschaft des öffentlichen Rechts offen.
+2. Die Fördermitgliedschaft steht grundätzlich jeder natürlichen oder juristischen Person sowie Anstalt oder Körperschaft des öffentlichen Rechts offen.
 4. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand.
 5. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
 6. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
