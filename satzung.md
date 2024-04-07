@@ -117,7 +117,7 @@ TODO: replace all `?` chars
 
 ### § 6e Stimmrecht
 
-1. Jedes stimmberechtigte Mitglied hat eine Stimme. Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.
+1. Jedes ordentliche Mitglied hat eine Stimme.
 2. Das Stimmrecht kann auf andere stimmberechtigte Mitglieder übertragen werden. Das bevollmächtigte Mitglied muss eine schriftliche Stimmrechtsvollmacht vorlegen. Kein stimmberechtigtes Mitglied darf mehr als zwei Stimmrechtsvollmachten auf sich vereinigen.
 3. Fördermitglieder sind nicht stimmberechtigt.
 
