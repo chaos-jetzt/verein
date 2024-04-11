@@ -15,7 +15,7 @@ Im allgemeinen soll der ethische Kompass des Vereins und seiner Mitglieder den f
 
 ## Würdevoller und gerechter Umgang miteinander
 
-Im Rahmen jeglicher Aktivitäten des Vereins ist stets würdevoll und diskriminierungsfrei miteinander umzugehen. Dies versteht sich in Bezug auf ethnische Herkünfte, die körperliche Unversehrtheit, das Geschlecht, die Sexualität, das Aussehen und körperlichen Einschränkungen. Wir behandeln uns gegenseitig stets fair und respektvoll.
+Im Rahmen jeglicher Aktivitäten des Vereins ist stets würdevoll und diskriminierungsfrei miteinander umzugehen. Dies versteht sich in Bezug auf ethnische Herkünfte, die körperliche und geistige Unversehrtheit, das Geschlecht, die Sexualität, das Aussehen und körperliche sowie psychische Einschränkungen. Wir behandeln uns gegenseitig stets fair und respektvoll.
 
 ## Gleichberechtigung
 
