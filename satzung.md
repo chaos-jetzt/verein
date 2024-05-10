@@ -18,8 +18,9 @@ TODO: replace all `?` chars
     3. Die Teilnahme an Veranstaltungen im IT-Bereich,
     4. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
     5. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
-3. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
+2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
 
+3. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
 ## § 3 Mitgliedschaft
 
