@@ -26,6 +26,7 @@ TODO: replace all `?` chars
 
 1. Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
 2. Mitglieder, deren Vereinsmitgliedschaft aufgrund satzungsgemäßer Bestimmungen ruht, sind in der Mitgliederversammlung nicht abstimmungs- oder wahlberechtigt, es sei denn es handelt sich um Beschlüsse über den Ausschluss einzelner Mitglieder. Über die Enthebung aus Ämtern entscheidet der Vorstand.
+3. Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste um den Club oder um die von ihm verfolgten satzungsgemäßen Zwecke erworben haben, zu Ehrenmitgliedern ernennen. Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds. Sie sind von Beitragsleistungen befreit. 
 
 ### § 3a Rechte und Pflichten
 
