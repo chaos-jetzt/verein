@@ -180,6 +180,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 4. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
 5. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden. 
 6. Über Beschlüsse des Vorstandes ist stets ein Beschlussprotokoll anzufertigen und allen Vorstandsmitgliedern in Textform zuzusenden. 
+7. Der Vorstand kann Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden, insbesondere dem Vereinsregister angeregt werden, mit einfacher Mehrheit der abgegebenen Stimmen in einer Vorstandssitzung beschließen und anmelden. Diese Änderungen sind in der Protokollform den Mitgliedern zeitnah mitzuteilen.
 
 ### § 7d Kassenprüfung
 
