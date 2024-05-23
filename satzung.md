@@ -24,7 +24,7 @@ TODO: replace all `?` chars
 
 ## § 3 Mitgliedschaft
 
-1. Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
+1. Ordentliche Vereinsmitglieder können natürliche und juristische Personen die das 7. Lebensjahr vollendet haben, Handelsgesellschaften, nicht rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
 2. Mitglieder, deren Vereinsmitgliedschaft aufgrund satzungsgemäßer Bestimmungen ruht, sind in der Mitgliederversammlung nicht abstimmungs- oder wahlberechtigt, es sei denn es handelt sich um Beschlüsse über den Ausschluss einzelner Mitglieder. Über die Enthebung aus Ämtern entscheidet der Vorstand.
 
 ### § 3a Rechte und Pflichten
@@ -36,6 +36,9 @@ TODO: replace all `?` chars
 1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand. Die Mitgliedschaft steht grundsätzlich jeder Person offen. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand. 
 2. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
 3. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
+4. Bei Minderjährigen, die das 7. Lebensjahr vollendet haben, ist der Aufnahmeantrag zusätzlich durch die gesetzlichen Vertreter zu bestätigen. Dies ist entweder:
+    1. auf dem Mitgliedschaftsantrag geben, 
+    2. oder spätestens 4 Wochen nach Antragstellung in Textform gegenüber dem Vorstand nachzureichen. Die Mitgliedschaft ruht bis zur Bestätigung.
 
 ### § 3c Mitgliedschaftsende
 
