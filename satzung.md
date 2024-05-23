@@ -112,6 +112,7 @@ TODO: replace all `?` chars
 2. Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen.
 3. Die Beschlüsse der Mitgliederversammlung sind zu protokollieren. Das Protokoll ist von der Versammlungsleitung und der Protokollführung zu unterzeichnen und allen Mitgliedern zugänglich zu machen.
 4. Der Widerspruch gegen Versammlungsbeschlüsse oder die Rüge des Protokolls hat unverzüglich, jedoch spätestens mit einer Frist von zwei Wochen nach Bekanntgabe zu erfolgen.
+5. Vor der Abstimmung über in §6f Absatz 1 aufgführte Beschlüsse ist die Beschlussfähigkeit festzustellen.
 
 ### § 6e Stimmrecht
 
