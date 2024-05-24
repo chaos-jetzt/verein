@@ -83,8 +83,9 @@ TODO: replace all `?` chars
     4. die Satzungsänderungen,
     5. die Genehmigung des Finanzberichts,
     6. der Erlass, Änderung und Aufhebung von Ordnungen,
-    7. die Anträge des Vorstandes und der Mitglieder, sowie
-    8. die Auflösung des Vereins.
+    7. die Anträge des Vorstandes und der Mitglieder,
+    8. die Auflösung des Vereins, sowie
+    9. die Ernennung von Ehrenmitgliedern
 2. Die Mitgliederversammlung kann an einem durch den Vorstand festgelegten Ort, im Rahmen von Netzkonferenzen zur fernmündlichen Teilnahme sowie in einer Kombination hiervon erfolgen. 
 
 ### § 6a Einberufung
