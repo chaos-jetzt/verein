@@ -12,15 +12,23 @@ TODO: replace all `?` chars
 
 ## § 2 Zweck
 
-1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
-    1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche,
-    2. Vereinsinterne Treffen — ggf. mit externen Gästen — zum Austausch über IT-Themen,
-    3. Die Teilnahme an Veranstaltungen im IT-Bereich,
-    4. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
-    5. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
-2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
+1. Der Zweck des Vereins ist die Förderung:
+    1. von Wissenschaft und Forschung (§ 52 Abs. 2 Nr. 1 AO),
+    2. der Bildung (§ 52 Abs. 2 Nr. 2 AO),
+    3. von Kunst und Kultur (§ 52 Abs. 2 Nr. 5 AO),
+    4. des Verbraucherschutzes (§ 52 Abs. 2 Nr. 16 AO),
+    5. der Jugendhilfe (§ 52 Abs. 2 Nr. 4 AO),
+    6. des allgemeinen demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind (§ 52 Abs. 2 Nr. 24 AO).
+2. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
+    1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche, in unterschiedlichen Formaten zum Meinungs- und Wissensaustausch bzw. die Wissensvermittlung über Informations- und Kommunikationsmedien,Austausch und Beratung über Bildungs- und IT-Themen,
+    2. Die Teilnahme und/oder Förderung von Seminaren, Kongressen, Konferenzen und virtuellen Zusammenkünften insbesondere mit Inhalten von IT, der Computersicherheit, des Datenschutz- und Sicherheit und kreativen dem Umgang mit neuen Technologien und deren Anwendungen, sowie dem Upcycling von Geräten durch die Anpassung von Hard- und Software,
+    3. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
+    4. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik,
+    5. Information und Austausch zu Anwendungen mit Freier Software (Heimautomatisierung, Linux, etc.) und den Möglichkeiten der Nutzung freier Software,
+    6. Der Satzungszweck wird auch durch ein Zusammenwirken mit weiteren gemeinnützigen Körperschaften verwirklicht, der Verein kann insoweit auch mit diesen Kooperationen für einzelne Veranstaltungen oder allgemeiner Art eingehen und hierzu einen entsprechenden Kooperationsvertrag abschließen. Zweck des Vereins ist daher auch die Mittelweitergabe an eine andere Körperschaft oder eine juristische Person des öffentlichen Rechts für die Verwirklichung steuerbegünstigter Zwecke. Die Zuwendung von Mitteln an eine beschränkt oder unbeschränkt steuerpflichtige Körperschaft des privaten Rechts setzt voraus, dass diese selbst steuerbegünstigt ist. Insoweit handelt der Verein auch als Mittelbeschaffungskörperschaft im Sinne des § 58 Nr. 1 AO.
+3. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
 
-3. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
+4. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts “Steuerbegünstigte Zwecke” der Abgabenordnung. Er darf keine Gewinne erzielen; er ist selbstlos tätig und verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die Mittel des Vereins werden ausschließlich und unmittelbar zu den satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine Zuwendung aus den Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden. 
 
 ## § 3 Mitgliedschaft
 
