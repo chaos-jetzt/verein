@@ -6,6 +6,7 @@
     1. welche natürliche Personen sind: 12 €,
     2. welche keine natürlichen Personen sind: 1337€.
 1. Der Vorstand kann auf Antrag eine Befreiung von der Zahlungspflicht, oder eine Ermäßigung des Beitrages erteilen, ggf. auch rückwirkend. Der Vorstand entscheidet nach billigem Ermessen.
+5. Ehrenmitglieder sind von der Aufnahmegebühr und den Mitgliedsbeiträgen befreit.
 
 ## § 2 Vereinseintritt
 
