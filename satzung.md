@@ -143,8 +143,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
     3. einem Finanzvorstand,
 1. Der Vorstandsvorsitz, die stellvertretenden Vorsitzenden und der Finanzvorstand  bilden den geschäftsführenden Vorstand. 
 2. Die Vorstandsmitglieder sind ehrenamtlich tätig; sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
-3. Die Vorstandsmitglieder sind von der Vorschrift des § 181 BGB befreit.
-4. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
+3. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
 
 ### § 7a Besetzung des Vorstandes
 
