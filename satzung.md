@@ -44,7 +44,7 @@ TODO: replace all `?` chars
     3. Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder
     4. Ausschluss.
     5. ??? dem 27. Geburtstag
-2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist jederzeit mit einer Frist von vier Wochen möglich.
+2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist nur mit einer Frist von vier Wochen zum Ende des Geschäftsjahres möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
 
 ### § 3d Ausschluss
