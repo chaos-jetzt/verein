@@ -1,12 +1,21 @@
 # Anlage 3: Ethikkodex
 
-TODO: replace `???`
+## Hackethik
 
-## ??? Hackerethik
+Im Allgemeinen soll der ethische Kompass des Vereins und seiner Mitglieder den folgenden Grundsätzen folgen:
+- Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+- Alle Informationen (mit Ausnahme privater Daten) müssen frei sein.
+- Misstraue Autoritäten – fördere Dezentralisierung.
+- Beurteile Menschen nach dem, was sie tun, und nicht nach üblichen Kriterien wie Aussehen, Alter, Herkunft, Spezies, Geschlecht oder gesellschaftliche Stellung.
+- Man kann mit einem Computer Kunst und Schönheit schaffen.
+- Computer können Dein Leben zum Besseren verändern.
+- Mülle nicht in den Daten anderer Leute.
+- Öffentliche Daten nützen, private Daten schützen.
+
 
 ## Würdevoller und gerechter Umgang miteinander
 
-Im Rahmen jeglicher Aktivitäten des Vereins ist stets würdevoll und diskriminierungsfrei miteinander umzugehen. Dies versteht sich in Bezug auf ethnische Herkünfte, die körperliche Unversehrtheit, das Geschlecht, die Sexualität, das Aussehen und körperlichen Einschränkungen. Wir behandeln uns gegenseitig stets fair und respektvoll.
+Im Rahmen jeglicher Aktivitäten des Vereins ist stets würdevoll und diskriminierungsfrei miteinander umzugehen. Dies versteht sich in Bezug auf ethnische Herkünfte, die körperliche und geistige Unversehrtheit, das Geschlecht, die Sexualität, das Aussehen und körperliche sowie psychische Einschränkungen. Wir behandeln uns gegenseitig stets fair und respektvoll.
 
 ## Gleichberechtigung
 
