@@ -154,7 +154,8 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 2. Der Vorstand bleibt bis zur Neuwahl im Amt, damit auch nach Ablauf der Amtsdauer eine ordnungsgemäße gesetzliche Vertretung gesichert ist.
 3. Der Vorstand besteht aus natürlichen Personen, den Vorstandsmitgliedern. Die Bekleidung mehrer Ämter durch eine Person ist zulässig, sofern dies auf Beschluss der Mitgliederversammlung erfolgt.
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
-5. Scheidet ein Vorstandsmitglied während seiner Amtszeit aus, agiert der verbleibende Vorstand übergangsweise bis zur nächsten Mitgliederversammlung. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
+5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
+6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
 
 ### § 7b Vertretungsmacht
