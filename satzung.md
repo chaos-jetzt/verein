@@ -14,10 +14,9 @@ TODO: replace all `?` chars
 
 1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
     1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche,
-    2. Vereinsinterne Treffen — ggf. mit externen Gästen — zum Austausch über IT-Themen,
-    3. Die Teilnahme an Veranstaltungen im IT-Bereich,
-    4. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
-    5. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
+    2. Die Teilnahme an Veranstaltungen im IT-Bereich,
+    3. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
+    4. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
 2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
 
 ## § 3 Mitgliedschaft
