@@ -13,11 +13,11 @@ TODO: replace all `?` chars
 ## § 2 Zweck
 
 1. Der Zweck des Vereins ist die Förderung:
-    1. von Wissenschaft und Forschung (§ 52 Abs. 2 Nr. 1 AO),
+    1. der Jugendhilfe (§ 52 Abs. 2 Nr. 4 AO),
     2. der Bildung (§ 52 Abs. 2 Nr. 2 AO),
     3. von Kunst und Kultur (§ 52 Abs. 2 Nr. 5 AO),
     4. des Verbraucherschutzes (§ 52 Abs. 2 Nr. 16 AO),
-    5. der Jugendhilfe (§ 52 Abs. 2 Nr. 4 AO),
+    5. von Wissenschaft und Forschung (§ 52 Abs. 2 Nr. 1 AO),
     6. des allgemeinen demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind (§ 52 Abs. 2 Nr. 24 AO).
 2. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
     1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche, in unterschiedlichen Formaten zum Meinungs- und Wissensaustausch bzw. die Wissensvermittlung über Informations- und Kommunikationsmedien,Austausch und Beratung über Bildungs- und IT-Themen,
