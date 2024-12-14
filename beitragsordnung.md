@@ -6,7 +6,7 @@
 2. Der Vorstand kann auf Antrag eine Befreiung von der Zahlungspflicht, oder eine Ermäßigung des Beitrages erteilen, ggf. auch rückwirkend. Der Vorstand entscheidet nach billigem Ermessen.
 3. Der jährliche Mitgliedsbeitrag beträgt für Fördermitglieder,
     1. welche natürliche Personen sind: mindestens 120€,
-4. Jedes Mitglied ist jederzeit dazu berechtigt in eigenem Ermessen schriftlich dem Vorstand gegenüber den eigenen Mitgliedsbeitrag auf einen beliebigen Betrag festzulegen, sofern dieser über dem definierten Mindestbetrag liegt.
+4. Jedes Mitglied ist jederzeit dazu berechtigt in eigenem Ermessen schriftlich dem Vorstand gegenüber den eigenen Mitgliedsbeitrag auf einen beliebigen Betrag festzulegen, sofern dieser über dem definierten Mindestbetrag liegt und diesen nicht um das fünfzehnfache übersteigt.
 
 ## § 2 Vereinseintritt
 
