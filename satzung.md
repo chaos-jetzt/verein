@@ -12,14 +12,12 @@ TODO: replace all `?` chars
 
 ## § 2 Zweck
 
-1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft und Bildung und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
-    1. ??? ??? Das Teilnehmen an IT-Sicherheitswettbewerben (sog. Capture-The-Flag-Wettbewerbe),
-    2. ??? ??? Das Veranstalten von IT-Sicherheitswettbewerben (sog. Capture-The-Flag-Wettbewerbe),
-    3. ??? ??? Auffinden und ggf. Melden von Sicherheitslücken,
-    4. ??? ??? Förderung der nationalen und internationalen Kommunikation zwischen Technologie-Experten,
-    5. ??? ??? Vereinsinterne Treffen — ggf. mit externen Gästen — zum Austausch über IT-Themen.
+1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
+    1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche,
+    2. Die Teilnahme an Veranstaltungen im IT-Bereich,
+    3. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
+    4. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
 2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
-
 
 ## § 3 Mitgliedschaft
 
@@ -45,7 +43,7 @@ TODO: replace all `?` chars
     2. Tod von natürlichen Personen oder 
     3. Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder
     4. Ausschluss.
-2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist jederzeit mit einer Frist von vier Wochen möglich.
+2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist nur mit einer Frist von vier Wochen zum Ende des Geschäftsjahres möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
 4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, endet seine ordentliche Mitgliedschaft mit den verbundenen Rechten und Pflichten. Das ehemalige Mitglied kann daraufhin einen Antrag auf Alumni-Mitgliedschaft stellen.
 4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebür fällt hierbei keinesfalls an.
@@ -116,6 +114,7 @@ TODO: replace all `?` chars
 2. Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen.
 3. Die Beschlüsse der Mitgliederversammlung sind zu protokollieren. Das Protokoll ist von der Versammlungsleitung und der Protokollführung zu unterzeichnen und allen Mitgliedern zugänglich zu machen.
 4. Der Widerspruch gegen Versammlungsbeschlüsse oder die Rüge des Protokolls hat unverzüglich, jedoch spätestens mit einer Frist von zwei Wochen nach Bekanntgabe zu erfolgen.
+5. Vor der Abstimmung über in §6f Absatz 1 aufgführte Beschlüsse ist die Beschlussfähigkeit festzustellen.
 
 ### § 6e Stimmrecht
 
@@ -147,9 +146,8 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
     2. ein bis zwei stellvertretenden Vorsitzenden,
     3. einem Finanzvorstand,
 1. Der Vorstandsvorsitz, die stellvertretenden Vorsitzenden und der Finanzvorstand  bilden den geschäftsführenden Vorstand. 
-2. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig; sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
-3. Die Vorstandsmitglieder sind von der Vorschrift des § 181 BGB befreit.
-4. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
+2. Die Vorstandsmitglieder sind ehrenamtlich tätig; sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
+3. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
 
 ### § 7a Besetzung des Vorstandes
 
@@ -157,7 +155,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 2. Der Vorstand bleibt bis zur Neuwahl im Amt, damit auch nach Ablauf der Amtsdauer eine ordnungsgemäße gesetzliche Vertretung gesichert ist.
 3. Der Vorstand besteht aus natürlichen Personen, den Vorstandsmitgliedern. Die Bekleidung mehrer Ämter durch eine Person ist zulässig, sofern dies auf Beschluss der Mitgliederversammlung erfolgt.
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
-5. Scheidet ein Vorstandsmitglied während seiner Amtszeit aus, wählt der verbleibende Vorstand übergangsweise bis zur nächsten Mitgliederversammlung einen Ersatz. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
+5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
 7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
     1. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
