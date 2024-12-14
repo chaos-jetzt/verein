@@ -94,7 +94,7 @@ TODO: replace all `?` chars
 1. Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt. 
 2. Außerordentliche Mitgliederversammlungen werden 
     1. auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder 
-    2. wenn ein Viertel der Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. 
+    2. wenn ein Viertel der Mitglieder oder ein Viertel der stimmberechtigten Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. 
 3. Die Einberufung der Mitgliederversammlung erfolgt in schriftlicher oder elektronischer Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen. 
 4. Der Einladung ist eine Tagesordnung sowie die Gegenstände der anstehenden Beschlussfassungen beizufügen.
 5. Zur Wahrung der Frist reicht die Aufgabe der Einladung zur Post an die letzte bekannte Anschrift oder die Versendung an die zuletzt bekannte E-Mail-Adresse.
