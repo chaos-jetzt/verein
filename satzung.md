@@ -161,7 +161,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
 7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
     1. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
-    2. das siebzehnte Lebensjahr vollendet habe.
+    2. das achzehnte Lebensjahr vollendet haben.
 8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
