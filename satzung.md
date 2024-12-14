@@ -47,7 +47,8 @@ TODO: replace all `?` chars
     4. Ausschluss.
 2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist jederzeit mit einer Frist von vier Wochen möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
-4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, so wird seine Mitgliedschaft automatisch zu einer Alumni-Mitgliedschaft, die in allen Rechten und Pflichten einer Fördermitgliedschaft gleichgestellt ist.
+4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, endet seine ordentliche Mitgliedschaft mit den verbundenen Rechten und Pflichten. Das ehemalige Mitglied kann daraufhin einen Antrag auf Alumni-Mitgliedschaft stellen.
+4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebür fällt hierbei keinesfalls an.
 5. Bei Ausscheiden eines Mitgliedes aus dem Verein oder bei Vereinsauflösung erfolgt keine Rückerstattung etwa eingebrachter Vermögenswerte.
 
 ### § 3d Ausschluss
