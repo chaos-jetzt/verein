@@ -121,7 +121,7 @@
 ### § 6f Beschlussquoten
 
 1. Beschlüsse über 
-    1. Satzungsänderungen,
+    1. Satzungsänderungen (einschließlich der Änderung des Vereinszweckes),
     2. die Abwahl des Vorstandes, oder
     3. die Auflösung des Vereins
 
