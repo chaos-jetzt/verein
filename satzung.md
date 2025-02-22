@@ -1,13 +1,11 @@
 # Vereinssatzung - chaos.jetzt e.V.
 
-TODO: replace all `?` chars
-
-#### Tag der Errichtung der Satzung: ??.??.2024
+#### Tag der Errichtung der Satzung: 22.02.2025
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
 1. Der Verein führt den Namen „chaos.jetzt“. Der Verein wird in das Vereinsregister eingetragen und dann um den Suffix „e. V.“ ergänzt.
-2. Der Verein hat seinen Sitz in ???.
+2. Der Verein hat seinen Sitz in Leipzig.
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
 ## § 2 Zweck
@@ -15,7 +13,7 @@ TODO: replace all `?` chars
 1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
     1. Die Organisation von Veranstaltungen, insbesondere für Jugendliche,
     2. Die Teilnahme an Veranstaltungen im IT-Bereich,
-    3. Die Förderung der Kommunitkation zwischen Technik- und Computerinteressierten Jugendlichen,
+    3. Die Förderung der Kommunikation zwischen technik- und computerinteressierten Jugendlichen,
     4. Die Förderung von praktischen und künstlerischen Projekten Jugendlicher im Bereich der Computertechnik.
 2. Der Verein fördert und unterstützt Vorhaben, um die Zusammenarbeit zwischen den Mitgliedern zu verbessern.
 
@@ -41,19 +39,19 @@ TODO: replace all `?` chars
 1. Die Mitgliedschaft endet durch 
     1. Austrittserklärung oder
     2. Tod von natürlichen Personen oder 
-    3. Auflösung und Erlöschen von juristischen Personen, Handelsgesellschaften, nicht rechtsfähigen Vereinen sowie Anstalten und Körperschaften des öffentlichen Rechts oder
-    4. Ausschluss.
+    3. Ausschluss.
 2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist nur mit einer Frist von vier Wochen zum Ende des Geschäftsjahres möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
 4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, endet seine ordentliche Mitgliedschaft mit den verbundenen Rechten und Pflichten. Das ehemalige Mitglied kann daraufhin einen Antrag auf Alumni-Mitgliedschaft stellen.
-4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebür fällt hierbei keinesfalls an.
-5. Bei Ausscheiden eines Mitgliedes aus dem Verein oder bei Vereinsauflösung erfolgt keine Rückerstattung etwa eingebrachter Vermögenswerte.
+   
+    4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebür fällt hierbei keinesfalls an.
+1. Bei Ausscheiden eines Mitgliedes aus dem Verein oder bei Vereinsauflösung erfolgt keine Rückerstattung etwa eingebrachter Vermögenswerte.
 
 ### § 3d Ausschluss
 
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn es
     1. das Ansehen des Vereins schädigt, oder
-    2. ??? Definieren ??? gegen Verhaltensregeln oder den Ethikkodex verstößt, oder
+    2. gegen den Ethikkodex verstößt, oder
     3. seinen Beitragsverpflichtungen nicht nachkommt oder
     4. ein sonstiger wichtiger Grund vorliegt.
 2. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen an die letzte bekannte Anschrift oder an die zuletzt bekannte E-Mail-Adresse mitteilen und ihm auf Verlangen eine Anhörung gewähren.
@@ -62,8 +60,6 @@ TODO: replace all `?` chars
 ## § 4 Mittel des Vereins
 
 ### § 4a Beiträge
-
-??? Beitragsordnung definieren
 
 1. Der Verein erhebt Mitgliedsbeiträge gemäß der Beitragsordnung.
 2. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die Mitgliedschaft. Dem Vorstand bleibt darüber hinaus der Ausschluss vorbehalten.
@@ -110,7 +106,7 @@ TODO: replace all `?` chars
 
 ### § 6d Beschlussfassung
 
-1. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens dreißig Prozent aller stimmberechtigten Mitglieder anwesend sind. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit bis zu einer Woche nach der Beschlussfassung nicht angezweifelt worden ist. Ist die Mitgliederversammlung aufgrund mangelnder Anzahl an Teilnehmenden nicht beschlussfähig, ist die darauf folgende ordentlich oder außerordentlich einberufene Mitgliederversammlung ungeachtet der Anzahl an Teilnehmenden beschlussfähig.
+1. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens dreißig Prozent aller stimmberechtigten Mitglieder anwesend sind. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist. Ist die Mitgliederversammlung aufgrund mangelnder Anzahl an Teilnehmenden nicht beschlussfähig, ist die darauf folgende ordentlich oder außerordentlich einberufene Mitgliederversammlung ungeachtet der Anzahl an Teilnehmenden beschlussfähig.
 2. Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen.
 3. Die Beschlüsse der Mitgliederversammlung sind zu protokollieren. Das Protokoll ist von der Versammlungsleitung und der Protokollführung zu unterzeichnen und allen Mitgliedern zugänglich zu machen.
 4. Der Widerspruch gegen Versammlungsbeschlüsse oder die Rüge des Protokolls hat unverzüglich, jedoch spätestens mit einer Frist von zwei Wochen nach Bekanntgabe zu erfolgen.
@@ -158,8 +154,9 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
 7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
-    1. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
-    2. das achzehnte Lebensjahr vollendet haben.
+    1. das achzehnte Lebensjahr vollendet haben.
+    2. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
+    
 8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
@@ -180,17 +177,18 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 ### § 7c Beschlussfassung des Vorstandes
 
 1. Zu den Vorstandssitzungen lädt der Vorsitz ein. Die Einberufung hat zu erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt. 
-2. Der Vorstand ist mit einer Frist von mindestens 7 Tagen in Textform einzuberufen. Bei unaufschiebbaren Ereignissen ist der Vorstand notfalls fernmündlich oder in Textform mit einer Frist von mindestens 3 Tagen einzuberufen. Mit Zustimmung aller Vorstandsmitglieder kann jederzeit je Veranlassung auf die Einhaltung von Ladungsfristen verzichtet werden.
-3. Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorstandsmitglieder anwesend ist. 
-4. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
-5. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden. 
-6. Über Beschlüsse des Vorstandes ist stets ein Beschlussprotokoll anzufertigen und allen Vorstandsmitgliedern in Textform zuzusenden. 
+
+2. Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorstandsmitglieder anwesend ist. 
+3. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
+4. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden. 
+5. Über Beschlüsse des Vorstandes ist stets ein Beschlussprotokoll anzufertigen und allen Vorstandsmitgliedern in Textform zuzusenden. 
 
 ### § 7d Kassenprüfung
 
 1. Die Mitgliederversammlung wählt ein bis zwei Kassenprüfende, die nicht Vorstandsmitglieder sind, auf die Dauer von zwei Jahren. Wiederwahl ist zulässig. Durch Beschluss kann auf die Bestellung von Kassenprüfenden unter besonderen Umständen verzichtet werden.
-2. Die Kassenprüfung erfolgt am Ende eines jeden Geschäftsjahres und prüft die rechnerische Richtigkeit der Buch- und Kassenführung. 
-3. Die Kassenprüfenden erstatten Bericht in der nächstfolgenden ordentlichen Mitgliederversammlung.
+2. Die Kassenprüfung erfolgt nach Ablauf eines jeden Geschäftsjahres und prüft die rechnerische Richtigkeit der Buch- und Kassenführung. 
+3. Nach Durchführung ihrer Prüfung informieren die Kassenprüfenden den Vorstand von ihrem Prüfungsergebnis.
+4. Die Kassenprüfenden erstatten Bericht in der nächstfolgenden ordentlichen Mitgliederversammlung.
 
 ## § 8 Ordnungen
 
