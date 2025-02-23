@@ -29,7 +29,7 @@
 ### § 3b Beitritt
 
 1. Der Aufnahmeantrag erfolgt in Textform gegenüber dem Vorstand.
-2. Die Fördermitgliedschaft steht grundätzlich jeder natürlichen Person offen.
+2. Die Fördermitgliedschaft steht grundsätzlich jeder natürlichen Person offen.
 4. Über die Annahme des Aufnahmeantrags entscheidet der Vorstand.
 5. Die Mitgliedschaft beginnt mit der Annahme des Aufnahmeantrags.
 6. Eine Ablehnung des Aufnahmeantrags ist nicht anfechtbar und muss nicht begründet werden.
@@ -44,7 +44,7 @@
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
 4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, endet seine ordentliche Mitgliedschaft mit den verbundenen Rechten und Pflichten. Das ehemalige Mitglied kann daraufhin einen Antrag auf Alumni-Mitgliedschaft stellen.
    
-    4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebür fällt hierbei keinesfalls an.
+    4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebühr fällt hierbei keinesfalls an.
 1. Bei Ausscheiden eines Mitgliedes aus dem Verein oder bei Vereinsauflösung erfolgt keine Rückerstattung etwa eingebrachter Vermögenswerte.
 
 ### § 3d Ausschluss
@@ -55,7 +55,7 @@
     3. seinen Beitragsverpflichtungen nicht nachkommt oder
     4. ein sonstiger wichtiger Grund vorliegt.
 2. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen an die letzte bekannte Anschrift oder an die zuletzt bekannte E-Mail-Adresse mitteilen und ihm auf Verlangen eine Anhörung gewähren.
-3. Der Beschluss des Vorstandes kann vom auszuschließenden Mitglied angefochten werden. In diesem Fall wird die Mitgliederversammlung angerufen, welche über den Ausschluss abstimmt. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Die Anrufung muss innerhalb einer Frist von vier Wochen ab Zugang des Ausschließungsbeschlusses schriftlich beim Vorstand eingelegt werden. Erfolgt keine Anrufung oder verstreicht die Anrufungsfrist, gilt die Mitgliedschaft ab dem Zeitpunkt des Ausschlusses als beendet.
+3. Der Beschluss des Vorstandes kann vom auszuschließenden Mitglied angefochten werden. Die Anfechtung muss innerhalb einer Frist von vier Wochen ab Zugang des Ausschließungsbeschlusses schriftlich beim Vorstand eingelegt werden. In diesem Fall hat der Vorstand die Mitgliederversammlung anzurufen, welche über den Ausschluss abstimmt. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Erfolgt innerhalb der Frist keine Anfechtung gilt die Mitgliedschaft ab dem Zeitpunkt des Ausschlusses als beendet.
 
 ## § 4 Mittel des Vereins
 
@@ -89,7 +89,7 @@
 2. Außerordentliche Mitgliederversammlungen werden 
     1. auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder 
     2. wenn ein Viertel der Mitglieder oder ein Viertel der stimmberechtigten Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. 
-3. Die Einberufung der Mitgliederversammlung erfolgt in schriftlicher oder elektronischer Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen. 
+3. Die Einberufung der Mitgliederversammlung erfolgt in Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen.
 4. Der Einladung ist eine Tagesordnung sowie die Gegenstände der anstehenden Beschlussfassungen beizufügen.
 5. Zur Wahrung der Frist reicht die Aufgabe der Einladung zur Post an die letzte bekannte Anschrift oder die Versendung an die zuletzt bekannte E-Mail-Adresse.
 
@@ -104,21 +104,27 @@
 2. Eine Ordnung kann eine von Absatz 1 abweichende Leitung vorsehen.
 3. Die Versammlungsleitung kann abgetreten werden.
 
-### § 6d Beschlussfassung
+### § 6d Beschlussfähigkeit
 
-1. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens dreißig Prozent aller stimmberechtigten Mitglieder anwesend sind. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist. Ist die Mitgliederversammlung aufgrund mangelnder Anzahl an Teilnehmenden nicht beschlussfähig, ist die darauf folgende ordentlich oder außerordentlich einberufene Mitgliederversammlung ungeachtet der Anzahl an Teilnehmenden beschlussfähig.
-2. Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen.
-3. Die Beschlüsse der Mitgliederversammlung sind zu protokollieren. Das Protokoll ist von der Versammlungsleitung und der Protokollführung zu unterzeichnen und allen Mitgliedern zugänglich zu machen.
-4. Der Widerspruch gegen Versammlungsbeschlüsse oder die Rüge des Protokolls hat unverzüglich, jedoch spätestens mit einer Frist von zwei Wochen nach Bekanntgabe zu erfolgen.
-5. Vor der Abstimmung über in §6f Absatz 1 aufgführte Beschlüsse ist die Beschlussfähigkeit festzustellen.
+1. Die Mitgliederversammlung ist beschlussfähig, wenn mindestens dreißig Prozent aller stimmberechtigten Mitglieder anwesend sind.
+2. Die Beschlussfähigkeit wird auf Antrag unverzüglich festgestellt.
+3. Die Versammlung gilt solange als beschlussfähig, bis das Fehlen der Beschlussfähigkeit festgestellt worden ist.
+4. Abweichend von Absatz 3 ist vor der Abstimmung über in § 6g Absatz 1 aufgeführte Beschlüsse die Beschlussfähigkeit festzustellen.
+5. Ist die Mitgliederversammlung aufgrund mangelnder Anzahl an Teilnehmenden nicht beschlussfähig, ist die darauf folgende ordentlich oder außerordentlich einberufene Mitgliederversammlung ungeachtet der Anzahl an Teilnehmenden beschlussfähig.
 
-### § 6e Stimmrecht
+### § 6e Beschlussfassung
+
+1. Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen.
+2. Die Beschlüsse der Mitgliederversammlung sind zu protokollieren. Das Protokoll ist von der Versammlungsleitung und der Protokollführung zu unterzeichnen und allen Mitgliedern zugänglich zu machen.
+3. Der Widerspruch gegen Versammlungsbeschlüsse oder die Rüge des Protokolls hat unverzüglich, jedoch spätestens mit einer Frist von zwei Wochen nach Bekanntgabe zu erfolgen.
+
+### § 6f Stimmrecht
 
 1. Jedes ordentliche Mitglied hat eine Stimme.
 2. Das Stimmrecht kann auf andere stimmberechtigte Mitglieder übertragen werden. Das bevollmächtigte Mitglied muss eine schriftliche Stimmrechtsvollmacht vorlegen. Kein stimmberechtigtes Mitglied darf mehr als zwei Stimmrechtsvollmachten auf sich vereinigen.
 3. Fördermitglieder sind nicht stimmberechtigt.
 
-### § 6f Beschlussquoten
+### § 6g Beschlussquoten
 
 1. Beschlüsse über 
     1. Satzungsänderungen (einschließlich der Änderung des Vereinszweckes),
@@ -131,7 +137,7 @@
 3. In allen anderen Fällen genügt die einfache Mehrheit der Stimmen. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
 4. Das Stimmenverhältnis bezieht sich stets auf die Anzahl der durch die anwesenden stimmberechtigten Mitglieder einschließlich der durch sie vertretenen Mitglieder abgegebenen Stimmen ohne Enthaltungen.
 
-### § 6g Wahlen
+### § 6h Wahlen
 
 Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richten sich nach der Wahlordnung.
 
@@ -141,27 +147,26 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
     1. dem oder der Vorsitzenden,
     2. ein bis zwei stellvertretenden Vorsitzenden,
     3. einem Finanzvorstand,
-1. Der Vorstandsvorsitz, die stellvertretenden Vorsitzenden und der Finanzvorstand  bilden den geschäftsführenden Vorstand. 
-2. Die Vorstandsmitglieder sind ehrenamtlich tätig; sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
+1. Der Vorstandsvorsitz, die stellvertretenden Vorsitzenden und der Finanzvorstand bilden den geschäftsführenden Vorstand.
+2. Die Vorstandsmitglieder sind ehrenamtlich tätig, sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
 3. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
 
 ### § 7a Besetzung des Vorstandes
 
 1. Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre. Wiederwahl ist zulässig. 
 2. Der Vorstand bleibt bis zur Neuwahl im Amt, damit auch nach Ablauf der Amtsdauer eine ordnungsgemäße gesetzliche Vertretung gesichert ist.
-3. Der Vorstand besteht aus natürlichen Personen, den Vorstandsmitgliedern. Die Bekleidung mehrer Ämter durch eine Person ist zulässig, sofern dies auf Beschluss der Mitgliederversammlung erfolgt.
+3. Der Vorstand besteht aus natürlichen Personen, den Vorstandsmitgliedern. Die Bekleidung mehrerer Ämter durch eine Person ist zulässig, sofern dies auf Beschluss der Mitgliederversammlung erfolgt.
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
 5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
-7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
-    1. das achzehnte Lebensjahr vollendet haben.
+7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts
+    1. das achtzehnte Lebensjahr vollendet haben und
     2. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
-    
 8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
 
-1. Vorstand im Sinne des §26 BGB ist jedes Mitglied des geschäftsführenden Vorstands.
+1. Vorstand im Sinne des § 26 BGB ist jedes Mitglied des geschäftsführenden Vorstands.
 2. Die geschäftsführenden Vorstandsmitglieder sind alleinvertretungsberechtigt. Ausgenommen sind 
     1. Einstellung und Entlassung von Angestellten, 
     2. gerichtliche Vertretung sowie Anzeigen, 
@@ -176,11 +181,10 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 
 ### § 7c Beschlussfassung des Vorstandes
 
-1. Zu den Vorstandssitzungen lädt der Vorsitz ein. Die Einberufung hat zu erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt. 
-
-2. Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorstandsmitglieder anwesend ist. 
-3. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
-4. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden. 
+1. Zu den Vorstandssitzungen lädt der Vorsitz ein. Die Einberufung hat zu erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt.
+2. Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorstandsmitglieder anwesend ist.
+3. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
+4. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden.
 5. Über Beschlüsse des Vorstandes ist stets ein Beschlussprotokoll anzufertigen und allen Vorstandsmitgliedern in Textform zuzusenden. 
 
 ### § 7d Kassenprüfung
