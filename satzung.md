@@ -62,45 +62,45 @@
 ### § 4a Beiträge
 
 1. Der Verein erhebt Mitgliedsbeiträge gemäß der Beitragsordnung.
-2. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die Mitgliedschaft. Dem Vorstand bleibt darüber hinaus der Ausschluss vorbehalten.
+2. Im Falle nicht fristgerechter Entrichtung der Beiträge ruht die Mitgliedschaft. Dem  bleibt darüber hinaus der Ausschluss vorbehalten.
 
 ## § 5 Organe des Vereins
 
 1. Die Organe des Vereins sind
     1. die Mitgliederversammlung und
-    2. der Vorstand.
+    2. der .
 
 ## § 6 Mitgliederversammlung
 
 1. Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen:
-    1. die Wahl und Abberufung der Vorstandsmitglieder,
+    1. die Wahl und Abberufung der smitglieder,
     2. die Wahl der Kassenprüfenden,
-    3. die Entlastung des Vorstandes und der Kassenprüfenden,
+    3. die Entlastung des es und der Kassenprüfenden,
     4. die Satzungsänderungen,
     5. die Genehmigung des Finanzberichts,
     6. der Erlass, Änderung und Aufhebung von Ordnungen,
-    7. die Anträge des Vorstandes und der Mitglieder, sowie
+    7. die Anträge des es und der Mitglieder, sowie
     8. die Auflösung des Vereins.
-2. Die Mitgliederversammlung kann an einem durch den Vorstand festgelegten Ort, im Rahmen von Netzkonferenzen zur fernmündlichen Teilnahme sowie in einer Kombination hiervon erfolgen.
+2. Die Mitgliederversammlung kann an einem durch den  festgelegten Ort, im Rahmen von Netzkonferenzen zur fernmündlichen Teilnahme sowie in einer Kombination hiervon erfolgen.
 
 ### § 6a Einberufung
 
 1. Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt. 
 2. Außerordentliche Mitgliederversammlungen werden 
-    1. auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder 
+    1. auf Beschluss des es abgehalten, wenn die Interessen des Vereins dies erfordern, oder 
     2. wenn ein Viertel der Mitglieder oder ein Viertel der stimmberechtigten Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. 
-3. Die Einberufung der Mitgliederversammlung erfolgt in schriftlicher oder elektronischer Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen. 
+3. Die Einberufung der Mitgliederversammlung erfolgt in schriftlicher oder elektronischer Textform durch den  mit einer Frist von mindestens zwei Wochen. 
 4. Der Einladung ist eine Tagesordnung sowie die Gegenstände der anstehenden Beschlussfassungen beizufügen.
 5. Zur Wahrung der Frist reicht die Aufgabe der Einladung zur Post an die letzte bekannte Anschrift oder die Versendung an die zuletzt bekannte E-Mail-Adresse.
 
 ### § 6b Tagesordnung
 
-1. Anträge zur Tagesordnung sind mindestens eine Woche vor der Mitgliederversammlung beim Vereinsvorstand in Textform einzureichen.
+1. Anträge zur Tagesordnung sind mindestens eine Woche vor der Mitgliederversammlung beim Vereins in Textform einzureichen.
 2. Über die Behandlung von Dringlichkeits- und Initiativanträgen entscheidet die Mitgliederversammlung.
 
 ### § 6c Versammlungsleitung
 
-1. Der Vorsitz des Vorstandes leitet die Versammlung, bei Verhinderung seine Vertretung. Ist auch diese verhindert, bestimmt die Versammlung eine Versammlungsleitung.
+1. Der Vorsitz des es leitet die Versammlung, bei Verhinderung seine Vertretung. Ist auch diese verhindert, bestimmt die Versammlung eine Versammlungsleitung.
 2. Eine Ordnung kann eine von Absatz 1 abweichende Leitung vorsehen.
 3. Die Versammlungsleitung kann abgetreten werden.
 
@@ -122,7 +122,7 @@
 
 1. Beschlüsse über 
     1. Satzungsänderungen (einschließlich der Änderung des Vereinszweckes),
-    2. die Abwahl des Vorstandes, oder
+    2. die Abwahl des es, oder
     3. die Auflösung des Vereins
 
     benötigen zu ihrer Rechtswirksamkeit die Dreiviertelmehrheit der Stimmen.
@@ -133,14 +133,14 @@
 
 ### § 6g Wahlen
 
-Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richten sich nach der Wahlordnung.
+Wahlen, wie insbesondere die Wahl des es und der Kassenprüfenden, richten sich nach der Wahlordnung.
 
-## § 7 Vorstand
+## § 7 
 
-1. Der Vorstand besteht aus folgenden Ämtern: 
+1. Der  besteht aus folgenden Ämtern: 
     1. dem oder der Vorsitzenden,
     2. ein bis zwei stellvertretenden Vorsitzenden,
-    3. einem Finanzvorstand,
+    3. einem Finanz,
 1. Der Vorstandsvorsitz, die stellvertretenden Vorsitzenden und der Finanzvorstand  bilden den geschäftsführenden Vorstand. 
 2. Die Vorstandsmitglieder sind ehrenamtlich tätig; sie haben Anspruch auf Erstattung notwendiger und verhältnismäßiger Auslagen.
 3. Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen durchzuführen.
@@ -153,10 +153,8 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
 5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
-7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
-    1. das achzehnte Lebensjahr vollendet haben.
-    2. das siebenundzwanzigste Lebensjahr nicht vollendet haben.
-    
+7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts das achzehnte Lebensjahr vollendet haben.
+
 8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
