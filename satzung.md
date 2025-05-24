@@ -186,7 +186,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 
 ### § 7d Kassenprüfung
 
-1. Die Mitgliederversammlung wählt ein bis zwei Kassenprüfende, die nicht Vorstandsmitglieder sind, auf die Dauer von zwei Jahren. Wiederwahl ist zulässig. Durch Beschluss kann auf die Bestellung von Kassenprüfenden unter besonderen Umständen verzichtet werden.
+1. Die Mitgliederversammlung wählt ein bis zwei Kassenprüfende, die nicht Vorstandsmitglieder sind, auf die Dauer von zwei Jahren. Wiederwahl ist zulässig.
 2. Die Kassenprüfung erfolgt nach Ablauf eines jeden Geschäftsjahres und prüft die rechnerische Richtigkeit der Buch- und Kassenführung. 
 3. Nach Durchführung ihrer Prüfung informieren die Kassenprüfenden den Vorstand von ihrem Prüfungsergebnis.
 4. Die Kassenprüfenden erstatten Bericht in der nächstfolgenden ordentlichen Mitgliederversammlung.
