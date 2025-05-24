@@ -43,7 +43,6 @@
 2. Der Austritt wird durch Willenserklärung in Textform gegenüber dem Vorstand vollzogen. Der Austritt ist nur mit einer Frist von vier Wochen zum Ende des Geschäftsjahres möglich.
 3. Die Beitragspflicht für das laufende Beitragsjahr bleibt unberührt. Eine Erstattung bereits vereinnahmter Beiträge erfolgt nicht.
 4. Vollendet ein ordentliches Mitglied das siebenundzwanzigste Lebensjahr, endet seine ordentliche Mitgliedschaft mit den verbundenen Rechten und Pflichten. Das ehemalige Mitglied kann daraufhin einen Antrag auf Alumni-Mitgliedschaft stellen.
-   
     4.1. Eine Alumni-Mitgliedschaft kommt in ihren Rechten denen einer Fördermitgliedschaft gleich, in ihren Pflichten, insbesondere der Beitragspflicht, jedoch einem ordentlichen Mitglied. Eine erneute Aufnahmegebühr fällt hierbei keinesfalls an.
 1. Bei Ausscheiden eines Mitgliedes aus dem Verein oder bei Vereinsauflösung erfolgt keine Rückerstattung etwa eingebrachter Vermögenswerte.
 
@@ -56,6 +55,11 @@
     4. ein sonstiger wichtiger Grund vorliegt.
 2. Der Vorstand muss dem auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen an die letzte bekannte Anschrift oder an die zuletzt bekannte E-Mail-Adresse mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 3. Der Beschluss des Vorstandes kann vom auszuschließenden Mitglied angefochten werden. Die Anfechtung muss innerhalb einer Frist von vier Wochen ab Zugang des Ausschließungsbeschlusses schriftlich beim Vorstand eingelegt werden. In diesem Fall hat der Vorstand die Mitgliederversammlung anzurufen, welche über den Ausschluss abstimmt. Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Erfolgt innerhalb der Frist keine Anfechtung gilt die Mitgliedschaft ab dem Zeitpunkt des Ausschlusses als beendet.
+
+### § 3e Streichung
+1. Ein Mitglied kann durch Beschluss des Vorstandes von der Mitgliederliste gestrichen werden, wenn es trotz Mahnung mit der Zahlung des Mitgliedsbeitrages länger als ein Jahr im Rückstand ist.
+2. Der Vorstand muss dem betroffenen Mitglied den Beschluss in Textform unter Angabe von Gründen an die letzte bekannte Anschrift oder an die zuletzt bekannte E-Mail-Adresse mitteilen und ihm auf Verlangen eine Anhörung gewähren.
+3. Die Streichung aus der Mitgliederliste erfolgt unabhängig von der Anrufung der Mitgliederversammlung und ist nicht anfechtbar.
 
 ## § 4 Mittel des Vereins
 
