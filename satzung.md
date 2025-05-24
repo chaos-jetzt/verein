@@ -157,10 +157,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 4. Jedes Vorstandsmitglied besitzt in Abstimmungen und Beschlussfassungen des Vorstands eine Stimme, unbeschadet der Anzahl der ausgeübten Ämter.
 5. Sind zwei oder mehr der durch die Mitgliederversammlung gewählten Vorstandsmitglieder dauerhaft an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen.
 6. Die Abwahl eines Vorstandsmitglieds ist nur möglich, sofern zeitgleich eine Neubesetzung des freigewordenen Amtes gemäß dieser Satzung erfolgt.
-7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts:
-    1. das achzehnte Lebensjahr vollendet haben.
-    2. das fünfundzwanzigste Lebensjahr nicht vollendet haben.
-    
+7. Alle Vorstandsmitglieder müssen zum Zeitpunkt des Amtsantritts das achzehnte Lebensjahr vollendet haben.
 8. Vorstandsposten können nur durch ordentliche Mitglieder bekleidet werden.
 
 ### § 7b Vertretungsmacht
