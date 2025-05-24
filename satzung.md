@@ -177,8 +177,7 @@ Wahlen, wie insbesondere die Wahl des Vorstandes und der Kassenprüfenden, richt
 
 ### § 7c Beschlussfassung des Vorstandes
 
-1. Zu den Vorstandssitzungen lädt der Vorsitz ein. Die Einberufung hat zu erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt. 
-
+1. Zu den Vorstandssitzungen lädt der Vorsitz ein. Die Einberufung hat zu erfolgen, wenn mindestens ein Vorstandsmitglied dies in Textform verlangt.
 2. Der Vorstand ist beschlussfähig, wenn die Mehrheit der Vorstandsmitglieder anwesend ist. 
 3. Beschlüsse werden mit einfacher Mehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. 
 4. Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch, fernschriftlich, im Rahmen von Netzkonferenzen oder ähnlichem gefasst werden. 
