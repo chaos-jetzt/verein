@@ -8,6 +8,8 @@
 2. Der Verein hat seinen Sitz in Leipzig.
 3. Das Geschäftsjahr ist das Kalenderjahr.
 
+4. fsdnfjkdsjlhfds
+
 ## § 2 Zweck
 
 1. Der Verein fördert und unterstützt Vorhaben der Forschung, Wissenschaft, Bildung und Jugendarbeit und führt diese im gesetzlichen Rahmen durch. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:
