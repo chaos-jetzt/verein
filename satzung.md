@@ -1,6 +1,6 @@
 # Vereinssatzung - chaos.jetzt e.V.
 
-#### Tag der Errichtung der Satzung: 22.02.2025
+#### Tag der Errichtung der Satzung: 24.05.2025
 
 ## § 1 Name, Sitz, Geschäftsjahr
 
